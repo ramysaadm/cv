@@ -75,7 +75,7 @@ hr{
 }
 
 .ramy-img{
-  width: 15%;
+  width: 25%;
 }
 
 .intro-text{
@@ -87,12 +87,12 @@ hr{
   margin: 20px auto;
   text-align: left;
   padding: 0 20px;
-  width: 75%;
+
 }
 
 .aboutme-img{
   /* width: 175px; */
-  width: 10%;
+  width: 25%;
 
   /* border-radius: 100%; */
 }
@@ -107,7 +107,7 @@ hr{
 
 .logo{
   margin: 20px auto;
-  width: 10%;
+  width: 25%;
 
 }
 .cert-line{
@@ -119,14 +119,14 @@ hr{
 .work-row{
   line-height: 2;
   margin: 20px auto;
-  width: 50%;
+  width: 75%;
 
 }
 .project-line{
   line-height: 2;
   margin: 30px auto;
   text-align: center;
-  width: 75%;
+
 }
 
 .btn{
